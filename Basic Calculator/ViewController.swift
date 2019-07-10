@@ -79,7 +79,7 @@ class ViewController: UIViewController {
     
     @IBAction func equalsButtonPressed(_ sender: UIButton) {
         calculateResult()
-        calculation = CalculationType.Nil
+        calculation = .Nil
     }
     
     // +,-,x,/ button pressed
@@ -136,16 +136,16 @@ class ViewController: UIViewController {
     func defineCalculation(tag: Int){
         switch tag{
         case 1:
-            calculation = CalculationType.Division
+            calculation = .Division
             
         case 2:
-            calculation = CalculationType.Multiplication
+            calculation = .Multiplication
             
         case 3:
-            calculation = CalculationType.Subtraction
+            calculation = .Subtraction
             
         case 4:
-            calculation = CalculationType.Addition
+            calculation = .Addition
             
         default:
             print("Error - Could not assign calculation type")
