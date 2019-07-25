@@ -1,9 +1,7 @@
 # Basic-Calculator
-A basic Calculator Application made in Swift
+A basic Calculator Application made in Swift that resembles the stock Calculator iOS App.
 
 Skills Learned:
- - How to use Auto Layoyt
- - How to use Stack View
- - Enums
- - UIKit Basics
- - Basic Swift Operations
+ - Basic Switf UI Design
+ - Layouts
+ - Icon design
