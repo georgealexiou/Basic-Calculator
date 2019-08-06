@@ -6,4 +6,4 @@ Skills Learned:
  - Layouts
  - Icon design
 
-/[Calculator Screenshot](https://imgur.com/eOfOmG7.png)
+![Calculator Screenshot](https://imgur.com/eOfOmG7.png)
